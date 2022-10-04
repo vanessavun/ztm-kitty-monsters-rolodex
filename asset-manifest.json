@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ztm-kitty-monsters-rolodex/static/css/main.efef4110.css",
+    "main.js": "/ztm-kitty-monsters-rolodex/static/js/main.49d33b7d.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/ztm-kitty-monsters-rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/ztm-kitty-monsters-rolodex/index.html",
+    "main.efef4110.css.map": "/ztm-kitty-monsters-rolodex/static/css/main.efef4110.css.map",
+    "main.49d33b7d.js.map": "/ztm-kitty-monsters-rolodex/static/js/main.49d33b7d.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/ztm-kitty-monsters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efef4110.css",
+    "static/js/main.49d33b7d.js"
+  ]
+}
