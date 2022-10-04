@@ -1,2 +1,2 @@
-# ztm-monsters-rolodex
+# ztm-kitty-monsters-rolodex
  - Practice on creating a React App featuring Kitty Monsters Rolodex, which shows cards of Kitty profiles. Profile pictures are from robohash.org, and the profile objects are from https://jsonplaceholder.typicode.com/users. Search function looks for matching names.
