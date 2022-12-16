@@ -1,6 +1,11 @@
 import './card.styles.css';
+import { Kitty } from '../../App';
 
-const Card = ({ monster }) => {
+type CardProps = {
+    monster: Kitty;
+}
+
+const Card = ({ monster }: CardProps) => {
     const { id, name, email } = monster;
     return (
         <div className="card-container" key={id}>
